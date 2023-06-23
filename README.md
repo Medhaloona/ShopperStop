@@ -10,6 +10,9 @@
 
 ## Requirements For Initial Setup
 - Install [NodeJS](https://nodejs.org/en/)
+- Install [Metmask for Chrome-Based Browsers](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
+          [Metamask for Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/)
+          [Metamask for Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/metamask/ejbalbakoplchlghecdalmeeeajnimhm?hl=en-US)
 
 ## Setting Up
 ### 1. Clone/Download the Repository
