@@ -1,4 +1,4 @@
-# Dappazon
+# ShopperStop
 
 ## Technology Stack & Tools
 
