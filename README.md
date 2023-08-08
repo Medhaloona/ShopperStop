@@ -9,7 +9,7 @@
 - [React.js](https://reactjs.org/) (Frontend Framework)
 
 ## Requirements For Initial Setup
-- Install [NodeJS](https://nodejs.org/en/)
+- Install [NodeJS](https://nodejs.org/en/)(14.16.0)
 - Install [Metmask for Chrome-Based Browsers](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
           -- [Metamask for Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/)
           -- [Metamask for Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/metamask/ejbalbakoplchlghecdalmeeeajnimhm?hl=en-US)
